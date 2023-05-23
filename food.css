@@ -1,0 +1,604 @@
+div.s
+{
+    border: 2px solid transparent;
+    width:1600px;
+    height: 500px;
+    margin-left: 10px;
+    overflow: scroll;
+}
+h1
+{
+    float: left;
+    font-size: 78px;
+    letter-spacing: 15px;
+    margin-top: 0px;
+    text-shadow: 8px 8px 8px hotpink;
+    border: 40px solid orange;
+    background-color: antiquewhite;
+    margin-bottom: 0px;
+    
+    
+}
+q
+{
+    float: left;
+    font-size: 37px;
+    border: 43px solid orange;
+    font-style: italic;
+    margin-bottom:0px;
+    background-color: orange;
+    color:black;
+}
+li
+{
+    display: inline;
+}
+li a{
+
+    
+    margin-right: 40px;
+    padding: 8px;
+    text-decoration: none;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+li a:hover
+{
+   background-color:gray;
+}   
+
+ul
+{
+    
+    border: 4px solid transparent;
+    background-color: rgb(35, 33, 49);
+}
+
+div
+{
+    float: left;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 0px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+marquee
+{
+    font-size: 35px;
+    color:red;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+div.f4
+{
+    border: 5px solid transparent;
+    background-image: url(aa23.jpg);
+    width: 810px;
+    height: 400px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+p
+{
+    margin-top: 60px;
+}
+h3
+{
+    font-size: 30px;
+}
+input
+{
+    font-size: 30px;
+}
+div.f2
+{
+    float: left;
+    font-size: 30px;
+    color: hotpink;
+    font-family:'Britannic Bold';
+
+}
+div.f3
+{
+    margin-left: 150px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+
+li button a
+{
+    margin-top: 30px;
+    color: blue;
+    padding: 0px;
+}
+ul.b
+{
+    
+    border: 4px solid transparent;
+    background-color: black;
+}
+div.f1
+{
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-left: 80px;
+    color: white;
+
+}
+button.a a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    
+}
+button.a a:hover
+{
+    background-color:orange;
+}
+div.b
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+    
+}
+div.b1
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+    
+}
+div.b2
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+    
+}
+div.b3
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+    
+}
+div.b4
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+}
+div.b5
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;
+    
+}
+div.b6
+{
+    border: 2px solid gray;
+    width: 1400px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+img
+{
+    border: 2px solid gray;
+    width: 350px;
+    height: 270px;
+    margin: 15px;
+    float: left;
+}
+p.x
+{
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Times New Roman';
+}
+button
+{
+    font-size: 20px;
+    
+}
+button.a2 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    
+}
+button.a2 a:hover
+{
+    background-color:orange;
+}
+button.a1 a
+{
+    padding: 0px;
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    align:right;
+    
+}
+button.a1 a:hover
+{
+    background-color:green;
+}
+section.x1
+{ 
+    margin-bottom: 20px;
+    text-align: right;
+    margin-right: 50px;  
+}
+div.f5
+{
+    width: 1426px;
+    height: 300px;
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: rgb(35, 33, 49);
+
+}
+div.f5
+{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+
+
